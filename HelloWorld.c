@@ -1,4 +1,4 @@
-//C Hello World!
+/*C Hello World!*/
 
 #include <stdio.h>
  
