@@ -1,6 +1,6 @@
 //Java Hello World!
 
-pubic class HellowWorld
+public class HellowWorld
 {
 	public static void main(String[] args)
 	{
